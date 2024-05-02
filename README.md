@@ -7,3 +7,4 @@ Customer churn refers to when a customer ceases their relationship with a compan
 ## About the Dataset
 
 The dataset used in this project contains information related to the telecom industry, including various parameters that can potentially influence customer churn. By analyzing this dataset, we aim to identify the factors that contribute to churn and build predictive models to forecast whether a customer is likely to churn or not.
+![Screenshot (5)](https://github.com/mdismailquraishicse/TelecomChurnAnalysis/assets/52546719/ef4c7e08-bfe0-4646-8bda-712321be033f)
